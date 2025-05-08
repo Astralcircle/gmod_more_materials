@@ -1,4 +1,4 @@
-# Improved Unbreakable Tool 🛠
+# Improved More Materials 🛠
 Improved version of the original more materials addon
 
 ## Contributing 💻: 
